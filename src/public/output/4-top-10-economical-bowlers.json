@@ -1,0 +1,41 @@
+[
+  {
+    "Year": 2015
+  },
+  {
+    "bowler": "RN ten Doeschate",
+    "economyRate": "4.00"
+  },
+  {
+    "bowler": "J Yadav",
+    "economyRate": "4.14"
+  },
+  {
+    "bowler": "V Kohli",
+    "economyRate": "5.45"
+  },
+  {
+    "bowler": "R Ashwin",
+    "economyRate": "5.85"
+  },
+  {
+    "bowler": "S Nadeem",
+    "economyRate": "6.14"
+  },
+  {
+    "bowler": "Parvez Rasool",
+    "economyRate": "6.20"
+  },
+  {
+    "bowler": "MC Henriques",
+    "economyRate": "6.32"
+  },
+  {
+    "bowler": "Z Khan",
+    "economyRate": "6.46"
+  },
+  {
+    "bowler": "MA Starc",
+    "economyRate": "6.77"
+  }
+]
