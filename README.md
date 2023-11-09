@@ -54,6 +54,19 @@ This function identifies the bowler with the best economy rate in super overs an
 
 You can run each of these analyses individually by specifying the corresponding problem number in `src/main.js`.
 
+
+## Output Files
+
+- 1-matches-per-year.js
+- 2-matches-won-per-team-per-year.js
+- 3-extra-runs-per-team-2016.js
+- 4-top-10-economical-bowlers.js
+- 5-times-team-won-toss-match.js
+- 6-player-of-match-each-season.js
+- 7-strike-rate.js
+- 8-max-dismiss.js
+- 9-best-economy-bowler-in-superovers.js
+
 ## Directory structure:
 
 - src/
