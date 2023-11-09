@@ -4,7 +4,7 @@ function dismissedCount(deliveriesData)
 {
     const dismissedPlayers={};
     deliveriesData.forEach((delivery) => {
-        if(delivery.player_dismissed)
+        if(delivery.player_dismissed && delivery.dismissal_kind != 'run out')
         {
             const bowler = delivery.bowler;
             const batsman = delivery.batsman;
